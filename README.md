@@ -162,3 +162,8 @@ git push -u origin main
 ## API endpoints
 `POST /qa`, `POST /explain`, `POST /quiz`, `POST /summarize`, `POST /learn/recommendations` and `POST /api/task`
 (body: `{"task": "...", "text": "..."}`), plus `GET /health`.
+🎓 EduGenie AI – Your Smart Learning Partner 🤖
+💡 Learn Smarter, Explore More, Achieve More 🚀
+🌐 https://edugenie-project1-1.onrender.com
+
+
